@@ -204,7 +204,7 @@ GitHub:
 https://github.com/Saurabhgiri475
 
 LinkedIn:
-(Add your LinkedIn profile here)
+https://www.linkedin.com/in/saurabh-giri-3aaa16300
 
 ---
 
